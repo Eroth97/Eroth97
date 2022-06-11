@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Just learning some data science. 
 
 <!--
 **Eroth97/Eroth97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
