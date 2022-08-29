@@ -1,4 +1,4 @@
-### Hi there 👋 Just learning some data science. 
+### Hi there 👋 I'm a mathematician with a passion for codding and web programming. Now I'm getting through TOP curriculum. I have worked also on CS50's Python and CS courses!  
 
 <!--
 **Eroth97/Eroth97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
