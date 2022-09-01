@@ -1,4 +1,6 @@
-### Hi there 👋 I'm a mathematician with a passion for codding and web programming. Now I'm getting through TOP curriculum. I have worked also on CS50's Python and CS courses!  
+### Hi there 👋 I'm a mathematician with a passion for codding and web programming. Now I'm getting through the TOP curriculum. I have worked also on CS50's Python and CS courses. 
+
+Following the idea of Trash Puppy YouTuber  I would use my original TOP landing page project as my portfolio. It would be up pretty soon!
 
 <!--
 **Eroth97/Eroth97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
